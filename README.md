@@ -24,4 +24,13 @@ Microsoft Edge.
 Internet Explorer 11 is only fully supported in Grafana versions prior v6
 
 ![Screenshot (786)](https://user-images.githubusercontent.com/64592542/145153710-46b0db8e-833b-419c-91bd-f9effc7fd361.png)
+  
+  
+ ##############################################################################################################################
+  Prometheus
+  
  
+![Screenshot (787)](https://user-images.githubusercontent.com/64592542/145153980-14f0d3cc-2c3c-43fd-a0c7-3965f83a01e4.png)
+![Screenshot (788)](https://user-images.githubusercontent.com/64592542/145154004-dc0e4c97-d9c0-434a-8776-816b0d6712dd.png)
+  ##################################################################################################################################
+  
