@@ -38,5 +38,10 @@ AlertManager
   
   ![Screenshot (789)](https://user-images.githubusercontent.com/64592542/145154273-2ec3efbc-3a33-4256-9aec-4d12a00d33f3.png)
   
+  ######################################################################################################
+  Prometheus-Pushgateway
+  http://192.168.1.102:9091/#
+  
+  
 
   
