@@ -34,3 +34,9 @@ Internet Explorer 11 is only fully supported in Grafana versions prior v6
 ![Screenshot (788)](https://user-images.githubusercontent.com/64592542/145154004-dc0e4c97-d9c0-434a-8776-816b0d6712dd.png)
   ##################################################################################################################################
   
+AlertManager
+  
+  ![Screenshot (789)](https://user-images.githubusercontent.com/64592542/145154273-2ec3efbc-3a33-4256-9aec-4d12a00d33f3.png)
+  
+
+  
